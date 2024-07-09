@@ -110,5 +110,7 @@ nav a{
 main{
     max-width: 1140px;
     margin: 0 auto;
-    f
+}
+.skill{
+    display: flex;
 }
