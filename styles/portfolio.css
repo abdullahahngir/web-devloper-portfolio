@@ -111,6 +111,7 @@ main{
     max-width: 1140px;
     margin: 0 auto;
 }
-.skill{
+
+.skill-container{
     display: flex;
 }
